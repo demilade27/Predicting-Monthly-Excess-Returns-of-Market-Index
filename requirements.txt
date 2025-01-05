@@ -1,6 +1,6 @@
-tensorflow==2.12
-torch==1.13
-scikit-learn>=1.0
+tensorflow
+torch
+scikit-learn
 pandas
 numpy
 matplotlib
