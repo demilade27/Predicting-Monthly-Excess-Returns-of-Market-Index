@@ -7,3 +7,5 @@ matplotlib
 seaborn
 statsmodels
 xgboost
+conda-forge 
+scikit-learn 

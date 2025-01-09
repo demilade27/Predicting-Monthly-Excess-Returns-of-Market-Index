@@ -1,0 +1,19 @@
+name: introML
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch  # Correct package name
+  - torchvision  # If needed
+  - torchaudio   # If needed
+  - tensorflow
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - xgboost
+  - pip
